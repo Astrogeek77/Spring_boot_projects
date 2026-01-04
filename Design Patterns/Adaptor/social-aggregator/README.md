@@ -110,3 +110,6 @@ public SocialAggregatorService(List<SocialMediaAdapter> adapters) { ... }
 Spring automatically finds all classes implementing the interface and injects them. 
 This makes the system Open/Closed Principle compliant—to add Instagram, you only need to create an InstagramAdapter,
 and you don't need to change the Service code at all.
+
+---
+Created for learning the Adapter Design Pattern in Java Spring Boot.
