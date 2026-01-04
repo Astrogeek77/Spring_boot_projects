@@ -1,3 +1,5 @@
+<img width="1916" height="1067" alt="real-time_chat_app_snippet" src="https://github.com/user-attachments/assets/967ebc78-d370-4875-8ea2-a60a79653f78" />
+
 # Real-Time Chat Application with Spring Boot & WebSocket
 
 A lightweight, real-time chat application built using **Spring Boot** for the backend and **plain JavaScript (with Bootstrap)** for the frontend. It uses the **STOMP** protocol over **SockJS** to handle real-time bi-directional communication.
