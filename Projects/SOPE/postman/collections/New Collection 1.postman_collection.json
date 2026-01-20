@@ -16,6 +16,18 @@
         }
       },
       "response": []
+    },
+    {
+      "name": "New Request",
+      "id": "3c14599a-d583-4a15-b788-fe256a2a4e6e",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
     }
   ]
 }
